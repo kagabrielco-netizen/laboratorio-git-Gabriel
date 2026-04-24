@@ -1,2 +1,2 @@
-# laboratorio-git-apellidos
+# laboratorio-git-Gabriel
 SISTEMAS INTELIGENTES C1 - GABRIEL CORILLOCLLA KATHERINE 
